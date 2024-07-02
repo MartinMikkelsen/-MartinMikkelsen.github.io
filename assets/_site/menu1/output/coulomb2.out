@@ -1,0 +1,2 @@
+ArgumentError: Package FewSpecialFunctions not found in current path.
+- Run `import Pkg; Pkg.add("FewSpecialFunctions")` to install the FewSpecialFunctions package.
